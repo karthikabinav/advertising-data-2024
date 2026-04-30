@@ -1,0 +1,11 @@
+Ad_ID,Campaign_Name,Start_Date,End_Date,Amount_Spent,Platform
+1,Spring Sale,2020-01-10,2020-01-20,4500.00,Facebook
+2,Winter Promo,2020-01-14,2020-01-25,5000.00,Google
+3,New Year Launch,2020-01-14,2020-02-01,7500.00,Instagram
+4,Valentine Special,2020-02-01,2020-02-14,6200.00,Facebook
+5,Q1 Campaign,2020-01-14,2020-03-31,6200.00,Twitter
+6,Brand Awareness,2020-01-12,2020-01-30,3800.00,LinkedIn
+7,Product Launch,2020-01-15,2020-02-15,9100.00,Google
+8,Holiday Push,2019-12-20,2020-01-05,5500.00,Facebook
+9,Summer Teaser,2020-03-01,2020-03-15,4200.00,Instagram
+10,Retargeting,2020-01-14,2020-01-28,4800.00,Google
